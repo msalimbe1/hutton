@@ -10,7 +10,7 @@ const games = [
   { id: 3, name: "lo" }
 ];
 
-// ref
+// ref.
 //404 Not found
 //400 Bad request
 
